@@ -1,0 +1,2 @@
+# EnergyPredictionProject
+MEAN Architecture
